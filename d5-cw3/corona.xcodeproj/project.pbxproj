@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		36B4483727E5CC3F00AFDCB2 /* Play-cw-17.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B4483627E5CC3F00AFDCB2 /* Play-cw-17.swift */; };
 		36BE88A527B0779A0019247E /* coronaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BE88A427B0779A0019247E /* coronaApp.swift */; };
 		36BE88A727B0779A0019247E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BE88A627B0779A0019247E /* ContentView.swift */; };
 		36BE88A927B077AB0019247E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36BE88A827B077AB0019247E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		36B4483627E5CC3F00AFDCB2 /* Play-cw-17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Play-cw-17.swift"; sourceTree = "<group>"; };
 		36BE88A127B0779A0019247E /* corona.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = corona.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36BE88A427B0779A0019247E /* coronaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coronaApp.swift; sourceTree = "<group>"; };
 		36BE88A627B0779A0019247E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				36BE88A427B0779A0019247E /* coronaApp.swift */,
 				36BE88A627B0779A0019247E /* ContentView.swift */,
+				36B4483627E5CC3F00AFDCB2 /* Play-cw-17.swift */,
 				36BE88A827B077AB0019247E /* Assets.xcassets */,
 				36BE88AA27B077AB0019247E /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				36BE88A727B0779A0019247E /* ContentView.swift in Sources */,
 				36BE88A527B0779A0019247E /* coronaApp.swift in Sources */,
+				36B4483727E5CC3F00AFDCB2 /* Play-cw-17.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
